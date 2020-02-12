@@ -1,0 +1,4 @@
+hold: 들다
+arrange: 정리하다
+pass: 지나가다
+reach: 뻗다
